@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0001-two-sum) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -23,10 +24,12 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
 |  |
 | ------- |
@@ -42,4 +45,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
