@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0014-longest-common-prefix) |
+| [0039-combination-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0039-combination-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
