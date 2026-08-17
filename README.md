@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0217-contains-duplicate) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0078-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
