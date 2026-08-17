@@ -70,6 +70,7 @@
 | [0062-unique-paths](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0877-stone-game) |
+| [1922-count-good-numbers](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0078-subsets) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
