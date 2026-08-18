@@ -22,12 +22,9 @@ public:
         }
 
         // Case 2: k == n
-        if (k == n) {
-            for (auto it : mp) {
-                ans = max(ans, it.first);
-            }
-            return ans;
-        }
+        if (k == n) 
+            return *max_element(nums.begin(), nums.end());
+        
 
         // Case 3: 1 < k < n
         if (mp[nums[0]] == 1)
