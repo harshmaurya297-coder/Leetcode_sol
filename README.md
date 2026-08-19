@@ -37,6 +37,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -151,4 +152,20 @@
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1922-count-good-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
