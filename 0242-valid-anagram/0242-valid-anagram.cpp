@@ -4,16 +4,16 @@ public:
         if(s.size() != t.size())
             return false;
             
-        int hash[26] = {-1}, hash1[26] = {-1};
+        int hash[26] = {0};
 
         for(auto it : s)
             hash[it - 'a']++;
         
         for(auto it : t)
-            hash1[it - 'a']++;
-            
+            hash[it - 'a']--;
+
         for(int i = 0; i < 26; i++) 
-            if(hash[i] != hash1[i])
+            if(hash[i] != 0)
                 return false;
         
         
