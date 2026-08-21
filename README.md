@@ -98,10 +98,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
@@ -171,4 +173,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
