@@ -13,6 +13,7 @@
 | [0216-combination-sum-iii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
 | [0877-stone-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3731-find-missing-elements) |
@@ -192,8 +194,17 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0202-happy-number) |
+| [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
