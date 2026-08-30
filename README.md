@@ -109,6 +109,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -116,6 +117,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
@@ -192,6 +194,7 @@
 | [0100-same-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -199,6 +202,7 @@
 | [0100-same-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
