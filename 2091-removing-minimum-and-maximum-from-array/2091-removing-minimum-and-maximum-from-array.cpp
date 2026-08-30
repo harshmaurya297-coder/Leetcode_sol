@@ -3,16 +3,14 @@ public:
     int minimumDeletions(vector<int>& nums) {
         int n = nums.size();
 
-        int maxi = INT_MIN, mini = INT_MAX, max_idx = 0, min_idx = 0;
+        int max_idx = 0, min_idx = 0;
         for(auto i = 0; i < nums.size(); i++){
-            if(maxi < nums[i]){
-                maxi = nums[i];
+            if(nums[i] > nums[max_idx])
                 max_idx = i;
-            }
-            if(mini > nums[i]){
-                mini = nums[i];
+            
+            if(nums[i] < nums[min_idx])
                 min_idx = i;
-            }
+            
         }
 
         int l = min(min_idx, max_idx);
