@@ -16,6 +16,7 @@
 | [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
 | [0877-stone-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3731-find-missing-elements) |
@@ -212,6 +213,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Quicksort
 |  |
 | ------- |
