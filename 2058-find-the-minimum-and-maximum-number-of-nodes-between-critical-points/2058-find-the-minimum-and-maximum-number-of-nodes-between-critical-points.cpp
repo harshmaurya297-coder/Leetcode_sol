@@ -1,48 +1,56 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        vector<int> result = {-1, -1};
+        
+        if (head == NULL || head->next == NULL || head->next->next == NULL) {
+            return {-1, -1};
+        }
 
-        // Initialize minimum distance to the maximum possible value
-        int minDistance = INT_MAX;
+        ListNode* temp = head;
 
-        // Pointers to track the previous node, current node, and indices
-        ListNode* previousNode = head;
-        ListNode* currentNode = head->next;
-        int currentIndex = 1;
-        int previousCriticalIndex = 0;
-        int firstCriticalIndex = 0;
+        stack<int> st;
+        vector<int> v;
 
-        while (currentNode->next != nullptr) {
-            // Check if the current node is a local maxima or minima
-            if ((currentNode->val < previousNode->val &&
-                 currentNode->val < currentNode->next->val) ||
-                (currentNode->val > previousNode->val &&
-                 currentNode->val > currentNode->next->val)) {
-                // If this is the first critical point found
-                if (previousCriticalIndex == 0) {
-                    previousCriticalIndex = currentIndex;
-                    firstCriticalIndex = currentIndex;
-                } else {
-                    // Calculate the minimum distance between critical points
-                    minDistance =
-                        min(minDistance, currentIndex - previousCriticalIndex);
-                    previousCriticalIndex = currentIndex;
-                }
+        int diff;
+
+        // First difference
+        diff = temp->val - temp->next->val;
+        st.push(diff);
+
+        temp = temp->next;
+
+        int pos = 1;
+
+        while (temp->next != NULL) {
+
+            diff = temp->val - temp->next->val;
+
+            // Sign change => critical point
+            if ((st.top() > 0 && diff < 0) ||
+                (st.top() < 0 && diff > 0)) {
+                
+                v.push_back(pos);
             }
 
-            // Move to the next node and update indices
-            currentIndex++;
-            previousNode = currentNode;
-            currentNode = currentNode->next;
+            st.push(diff);
+
+            temp = temp->next;
+            pos++;
         }
 
-        // If at least two critical points were found
-        if (minDistance != INT_MAX) {
-            int maxDistance = previousCriticalIndex - firstCriticalIndex;
-            result = {minDistance, maxDistance};
+        // Less than 2 critical points
+        if (v.size() < 2) {
+            return {-1, -1};
         }
 
-        return result;
+        int shortest = INT_MAX;
+
+        for (int i = 0; i < v.size() - 1; i++) {
+            shortest = min(shortest, v[i + 1] - v[i]);
+        }
+
+        int longest = v[v.size() - 1] - v[0];
+
+        return {shortest, longest};
     }
 };
