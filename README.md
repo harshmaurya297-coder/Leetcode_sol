@@ -176,6 +176,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0023-merge-k-sorted-lists) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
 |  |
 | ------- |
