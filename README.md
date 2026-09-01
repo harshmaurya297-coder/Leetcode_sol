@@ -18,6 +18,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -32,6 +33,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -121,6 +123,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -169,6 +172,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0078-subsets) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
 | ------- |
@@ -234,4 +238,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
