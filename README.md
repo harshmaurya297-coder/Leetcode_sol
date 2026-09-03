@@ -22,6 +22,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Combinatorics
 |  |
 | ------- |
