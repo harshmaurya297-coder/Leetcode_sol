@@ -1,3 +1,6 @@
+#pragma GCC optimize("Ofast,unroll-loops,fast-math")
+#pragma GCC target("avx,avx2,fma,sse4,popcnt,lzcnt,bmi,bmi2")
+
 class Solution {
 public:
     int numDistinct(string s, string t) {
