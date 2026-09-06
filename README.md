@@ -214,6 +214,7 @@
 | [0112-path-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -225,6 +226,7 @@
 | [0112-path-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
@@ -262,4 +264,8 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3904-smallest-stable-index-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
