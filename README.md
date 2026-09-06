@@ -61,6 +61,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0242-valid-anagram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -152,6 +153,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0213-house-robber-ii) |
 | [0877-stone-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0877-stone-game) |
