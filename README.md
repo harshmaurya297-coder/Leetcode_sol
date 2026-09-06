@@ -33,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -121,6 +122,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -130,6 +132,7 @@
 | [0112-path-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -211,6 +214,7 @@
 | [0112-path-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -221,6 +225,7 @@
 | [0112-path-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
