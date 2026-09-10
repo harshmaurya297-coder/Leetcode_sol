@@ -131,6 +131,7 @@
 | [0733-flood-fill](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -228,6 +229,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Two Pointers
 |  |
 | ------- |
