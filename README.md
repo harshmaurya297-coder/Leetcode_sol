@@ -68,6 +68,7 @@
 | [0115-distinct-subsequences](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0940-distinct-subsequences-ii) |
+| [1768-merge-strings-alternately](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1768-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -251,6 +252,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
+| [1768-merge-strings-alternately](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1768-merge-strings-alternately) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
