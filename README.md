@@ -21,6 +21,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -56,6 +57,7 @@
 | [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -176,6 +178,7 @@
 | [0213-house-robber-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0213-house-robber-ii) |
 | [0877-stone-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
@@ -296,6 +299,7 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0700-search-in-a-binary-search-tree) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
