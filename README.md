@@ -109,6 +109,7 @@
 | [0202-happy-number](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0877-stone-game) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1922-count-good-numbers](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
 |  |
@@ -181,6 +183,7 @@
 | [0213-house-robber-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0213-house-robber-ii) |
 | [0877-stone-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
@@ -300,6 +303,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search Tree
