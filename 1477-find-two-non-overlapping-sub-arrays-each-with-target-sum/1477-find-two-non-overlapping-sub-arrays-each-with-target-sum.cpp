@@ -1,3 +1,5 @@
+#pragma GCC optimize("Ofast,unroll-loops,fast-math")
+#pragma GCC target("avx,avx2,fma,sse4,popcnt,lzcnt,bmi,bmi2")
 class Solution {
     const int INF = 1e9;
 
