@@ -112,6 +112,7 @@
 | [0202-happy-number](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1922-count-good-numbers](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -326,4 +327,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
