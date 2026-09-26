@@ -79,6 +79,7 @@
 | [0115-distinct-subsequences](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0242-valid-anagram) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0940-distinct-subsequences-ii) |
 | [1768-merge-strings-alternately](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -97,6 +98,7 @@
 | [0020-valid-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0232-implement-queue-using-stacks) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -289,6 +292,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Quicksort
