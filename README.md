@@ -82,6 +82,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -101,6 +102,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0232-implement-queue-using-stacks) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [0020-valid-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
