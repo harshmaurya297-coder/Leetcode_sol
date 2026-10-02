@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0078-subsets) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0217-contains-duplicate) |
@@ -326,6 +328,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0063-unique-paths-ii) |
 | [0733-flood-fill](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0835-image-overlap) |
