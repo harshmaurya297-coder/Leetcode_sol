@@ -80,6 +80,7 @@
 | [0014-longest-common-prefix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0242-valid-anagram) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0232-implement-queue-using-stacks) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0070-climbing-stairs) |
@@ -231,6 +234,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
