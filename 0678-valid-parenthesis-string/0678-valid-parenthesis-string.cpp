@@ -1,31 +1,33 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        int open = 0;
-        int close = 0;
+        if(s.size() == 1 && (s[0] == ')' || s[0] == '(')) return false;
+        
+        int low = 0;
+        int high = 0;
 
         for(char c : s) {
 
             if(c == '(') {
-                close++;
-                open++;
+                low++;
+                high++;
             }
             else if(c == ')') {
-                close--;
-                open--;
+                low--;
+                high--;
             }
             else { // '*'
-                close--;     // '*' acts as ')'
-                open++;    // '*' acts as '('
+                low--;     // '*' acts as ')'
+                high++;    // '*' acts as '('
             }
 
-            if(open < 0)
+            if(high < 0)
                 return false;
 
-            if(close < 0)
-                close = 0;
+            if(low < 0)
+                low = 0;
         }
 
-        return close == 0;
+        return low == 0;
     }
 };
