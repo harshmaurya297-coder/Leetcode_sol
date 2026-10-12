@@ -1,34 +1,31 @@
 class Solution {
-    int rec(int i, int j, vector<vector<int>>& matrix,vector<vector<int>>& dp) {
-        int n = matrix.size();
-        if(j < 0 || j >= n)
-            return INT_MAX / 2;
-
-        if (i == n - 1)
-            return matrix[i][j];
-        
-        if(dp[i][j] != INT_MAX) 
-            return dp[i][j];
-        
-        int down = rec(i + 1, j, matrix, dp);
-        int leftDiag = rec(i + 1, j - 1, matrix, dp);
-        int rightDiag = rec(i + 1, j + 1, matrix, dp);
-
-        return dp[i][j] = matrix[i][j] + min({down, leftDiag, rightDiag});
-    }
-
 public:
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n = matrix.size();
 
-        vector<vector<int>> dp(n, vector<int> (n, INT_MAX));
-
-        int ans = INT_MAX;
-
+        vector<vector<int>> dp(n, 
+                vector<int> (n, INT_MAX));
+        
+        // Base case: last row
         for (int j = 0; j < n; j++) {
-            ans = min(ans, rec(0, j, matrix, dp));
+            dp[n - 1][j] = matrix[n - 1][j];
         }
 
-        return ans;
+        for (int i = n - 2; i >= 0; i--) {
+            for (int j = 0; j < n; j++) {
+                int up = dp[i + 1][j], 
+                    rightDiag = INT_MAX, 
+                    leftDiag = INT_MAX;
+
+                if(j > 0)
+                    leftDiag = dp[i + 1][j - 1];
+                if(j < n - 1)
+                    rightDiag = dp[i + 1][j + 1];
+
+                dp[i][j] = matrix[i][j] + min({up, leftDiag, rightDiag});
+            }
+        }
+        
+        return *min_element(dp[0].begin(), dp[0].end());
     }
 };
