@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0078-subsets) |
+| [0120-triangle](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0216-combination-sum-iii) |
@@ -211,6 +212,7 @@
 | [0063-unique-paths-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0213-house-robber-ii) |
 | [0678-valid-parenthesis-string](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0678-valid-parenthesis-string) |
