@@ -143,6 +143,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3875-construct-uniform-parity-array-i) |
@@ -331,6 +332,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
