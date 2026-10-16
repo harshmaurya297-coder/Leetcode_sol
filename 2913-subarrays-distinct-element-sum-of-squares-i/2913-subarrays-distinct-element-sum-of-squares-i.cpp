@@ -5,7 +5,7 @@ class Solution {
         if (start == nums.size())
             return 0;
 
-        unordered_set<int> st;
+        set<int> st;
         // Sum of distinct elements of current subarray
         for (int i = start; i <= end; i++) {
             st.insert(nums[i]);
