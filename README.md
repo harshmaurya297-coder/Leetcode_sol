@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0039-combination-sum) |
+| [0054-spiral-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0120-triangle) |
@@ -352,6 +353,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0063-unique-paths-ii) |
 | [0733-flood-fill](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0835-image-overlap) |
@@ -376,6 +378,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3498-reverse-degree-of-a-string) |
 ## Geometry
