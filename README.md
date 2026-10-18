@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0054-spiral-matrix) |
@@ -67,6 +68,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
@@ -319,6 +321,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0018-4sum) |
 | [0202-happy-number](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
 | [1768-merge-strings-alternately](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1768-merge-strings-alternately) |
