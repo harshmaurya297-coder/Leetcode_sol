@@ -14,6 +14,7 @@
 | [0078-subsets](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0217-contains-duplicate) |
@@ -142,6 +143,7 @@
 | [0062-unique-paths](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -209,6 +211,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -400,4 +403,20 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
