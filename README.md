@@ -38,6 +38,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3731-find-missing-elements) |
@@ -187,6 +188,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -200,10 +202,12 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -369,6 +373,7 @@
 | [0994-rotting-oranges](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0994-rotting-oranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
