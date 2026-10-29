@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0877-stone-game) |
@@ -196,6 +197,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -230,6 +232,7 @@
 | [0120-triangle](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0213-house-robber-ii) |
+| [0542-01-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0931-minimum-falling-path-sum) |
@@ -367,6 +370,7 @@
 | [0036-valid-sudoku](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0063-unique-paths-ii) |
+| [0542-01-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0931-minimum-falling-path-sum) |
