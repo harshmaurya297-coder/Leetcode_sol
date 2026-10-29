@@ -2,62 +2,58 @@ class Solution {
 public:
     void solve(vector<vector<char>>& board) {
         int n = board.size();
+        if (n == 0) return;
         int m = board[0].size();
+        if (m == 0) return;
 
-        vector<vector<int>> vis(n, vector<int> (m , -1));
         queue<pair<int, int>> q;
 
-        // first and last col
-        for(int i = 0; i < n; i++){
-            if(board[i][0] == 'O'){
-                q.push({i, 0});
-                vis[i][0] = 1;
+        // Mark boundary-connected O's as safe
+        auto add = [&](int r, int c) {
+            if (board[r][c] == 'O') {
+                board[r][c] = 'T';
+                q.push({r, c});
             }
-            if(board[i][m - 1] == 'O'){
-                q.push({i, m - 1});
-                vis[i][m - 1] = 1;
-            }
+        };
+
+        // First and last columns
+        for (int i = 0; i < n; i++) {
+            add(i, 0);
+            add(i, m - 1);
         }
 
-        // first and last row
-        for(int i = 0; i < m; i++){
-            if(board[0][i] == 'O'){
-                q.push({0, i});
-                vis[0][i] = 1;
-            }
-            if(board[n - 1][i] == 'O'){
-                q.push({n - 1, i});
-                vis[n - 1][i] = 1;
-            }
+        // First and last rows
+        for (int j = 0; j < m; j++) {
+            add(0, j);
+            add(n - 1, j);
         }
 
-        int del_row[] = {-1, 0, 1, 0};
-        int del_col[] = {0, -1, 0, 1};
+        int dr[] = {-1, 1, 0, 0};
+        int dc[] = {0, 0, -1, 1};
 
-        while(!q.empty()){
-            auto [row, col] = q.front();
+        while (!q.empty()) {
+            auto [r, c] = q.front();
             q.pop();
 
-            for(int i = 0; i < 4; i++){
-                int nrow = row + del_row[i];
-                int ncol = col + del_col[i];
+            for (int k = 0; k < 4; k++) {
+                int nr = r + dr[k];
+                int nc = c + dc[k];
 
-                if(nrow >= 0 && ncol >= 0 &&
-                    nrow < n && ncol < m &&
-                    vis[nrow][ncol] == -1 &&
-                    board[nrow][ncol] == 'O'){
-
-                    vis[nrow][ncol] = 1;
-                    q.push({nrow, ncol});
+                if (nr >= 0 && nr < n && nc >= 0 && nc < m &&
+                    board[nr][nc] == 'O') {
+                    board[nr][nc] = 'T';
+                    q.push({nr, nc});
                 }
             }
         }
 
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(board[i][j] == 'O' && vis[i][j] == -1){
+        // Restore safe cells and capture surrounded cells
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (board[i][j] == 'O')
                     board[i][j] = 'X';
-                }
+                else if (board[i][j] == 'T')
+                    board[i][j] = 'O';
             }
         }
     }
