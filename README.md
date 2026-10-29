@@ -14,6 +14,7 @@
 | [0078-subsets](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0216-combination-sum-iii) |
@@ -183,6 +184,7 @@
 | [0110-balanced-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0733-flood-fill) |
@@ -197,6 +199,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0733-flood-fill) |
@@ -208,6 +211,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -370,6 +374,7 @@
 | [0036-valid-sudoku](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0835-image-overlap) |
