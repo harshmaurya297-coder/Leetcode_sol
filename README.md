@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0835-image-overlap) |
@@ -304,10 +305,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0493-reverse-pairs) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -398,6 +401,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0493-reverse-pairs) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0700-search-in-a-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -417,10 +421,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Number Theory
 |  |
@@ -438,4 +444,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0204-count-primes) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
