@@ -13,6 +13,7 @@
 | [0063-unique-paths-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0198-house-robber) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0217-contains-duplicate) |
@@ -216,6 +218,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
