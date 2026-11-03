@@ -5,11 +5,9 @@ public:
         int median = nums[nums.size() / 2];
 
         int ans = 0;
-        
-        return accumulate(nums.begin(), nums.end(), 0,
-            [median](int sum, int x) {
-                return sum + abs(x - median);
-            }
-        );
+        for(int i = 0; i < nums.size(); i++){
+            ans += abs(median - nums[i]);
+        }
+        return ans;
     }
 };
