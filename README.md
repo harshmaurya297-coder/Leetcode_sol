@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0733-flood-fill) |
@@ -83,6 +84,7 @@
 | [0217-contains-duplicate](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -153,6 +155,7 @@
 | [0070-climbing-stairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0204-count-primes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1401-circle-and-rectangle-overlapping) |
