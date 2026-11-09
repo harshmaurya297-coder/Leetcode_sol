@@ -100,6 +100,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -478,4 +481,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0322-coin-change) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
