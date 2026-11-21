@@ -1,25 +1,24 @@
+// tabulation format
+
 class Solution {
-    int rec(vector<vector<int>>& dp, int r, int c, vector<vector<int>>& grid){
-
-        if(r == 0 && c == 0) return grid[0][0];
-
-        if(dp[r][c] != -1) return dp[r][c];
-
-        int up = INT_MAX, left = INT_MAX;
-
-        if(r > 0)  up = grid[r][c] + rec(dp, r - 1, c, grid);
-        if(c > 0)  left = grid[r][c] + rec(dp, r, c - 1, grid);
-
-        return dp[r][c] = min(up, left);
-    }
-    
 public:
     int minPathSum(vector<vector<int>>& grid) {
         int m = grid.size(), n = grid [0].size();
 
-        vector<vector<int>> dp(m, vector<int>(n, -1));
+        vector<vector<int>> dp(m, vector<int>(n, 0));
 
-        return rec(dp, m - 1, n - 1, grid);
+        for(int r = 0; r < m; r++){
+            for(int c = 0; c < n; c++){
+                if (r == 0 && c == 0) {
+                    dp[r][c] = grid[0][0];
+                } else {
+                    int up = (r > 0) ? dp[r - 1][c] : INT_MAX;
+                    int left = (c > 0) ? dp[r][c - 1] : INT_MAX;
+                    dp[r][c] = grid[r][c] + min(up, left);
+                }
+            }
+        }
+        return dp[m - 1][n - 1];
 
     }
 };
