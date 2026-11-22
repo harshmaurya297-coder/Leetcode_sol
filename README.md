@@ -205,6 +205,7 @@
 | [0130-surrounded-regions](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0200-number-of-islands) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0733-flood-fill) |
@@ -347,6 +348,7 @@
 | [0110-balanced-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -360,6 +362,7 @@
 | [0110-balanced-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -394,10 +397,12 @@
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -427,6 +432,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0493-reverse-pairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0493-reverse-pairs) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0700-search-in-a-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
