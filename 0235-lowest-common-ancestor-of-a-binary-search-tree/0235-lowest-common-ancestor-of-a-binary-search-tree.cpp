@@ -1,16 +1,42 @@
 class Solution {
+    bool dfs(TreeNode* root, TreeNode* target,
+             vector<TreeNode*>& s) { 
+        if(root == NULL) return false;
+
+        s.push_back(root);
+
+        if(root == target) return true;
+
+        if(dfs(root->left, target, s)) return true;
+
+        if(dfs(root->right, target, s)) return true;
+
+        s.pop_back();
+
+        return false;
+    }
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root == NULL || root == p || root == q)
-            return root;
+        vector<TreeNode*> v1, v2;
 
-        TreeNode* left = lowestCommonAncestor(root->left, p, q);
+        dfs(root, p, v1);
+        dfs(root, q, v2);
 
-        TreeNode* right = lowestCommonAncestor(root->right, p, q);
+        TreeNode* ans = NULL;
 
-        if(left != NULL && right != NULL)
-            return root;
+        int i = 0, j = 0;
 
-        return left != NULL ? left : right;
+        while(i < v1.size() && j < v2.size()) {
+
+            if(v1[i] != v2[j])
+                break;
+
+            ans = v1[i];
+
+            i++;
+            j++;
+        }
+
+        return ans;
     }
 };
