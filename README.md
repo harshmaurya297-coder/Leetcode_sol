@@ -174,6 +174,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1922-count-good-numbers](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3360-stone-removal-game) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -449,6 +450,7 @@
 | [0054-spiral-matrix](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/3498-reverse-degree-of-a-string) |
 ## Geometry
 |  |
