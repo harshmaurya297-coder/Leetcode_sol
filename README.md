@@ -35,6 +35,7 @@
 | [0877-stone-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0994-rotting-oranges) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1352-product-of-the-last-k-numbers](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -92,6 +93,7 @@
 | [0455-assign-cookies](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -276,6 +278,7 @@
 | [0877-stone-game](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0940-distinct-subsequences-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -443,6 +446,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0493-reverse-pairs](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0493-reverse-pairs) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/0700-search-in-a-binary-search-tree) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/harshmaurya297-coder/Leetcode_sol/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
