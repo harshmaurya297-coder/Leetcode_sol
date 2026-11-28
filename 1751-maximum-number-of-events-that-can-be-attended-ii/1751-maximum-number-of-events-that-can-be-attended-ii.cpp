@@ -13,7 +13,7 @@ private:
 
 
         // uper bound -> finds just smaller number idx
-        int upper_bound_idx = upper_bound(starts.begin(), starts.end(), events[r] [1]) - starts.begin();
+        int upper_bound_idx = upper_bound(starts.begin() + r + 1, starts.end(), events[r][1]) - starts.begin();
 
         // pick
         pick = events[r][2] +
